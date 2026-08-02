@@ -5,11 +5,15 @@
 
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:0969DA,100:00C2FF&text=Mohammed%20Karnoub&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Mid-Level%20Software%20Engineer%20%7C%20Flutter%20%26%20Full-Stack%20Developer&descAlignY=59&descSize=18&animation=fadeIn"
-  alt="Mohammed Karnoub"
-/>
+<h1>👋 Hi, I'm Mohammed Karnoub</h1>
+
+<h3>Mid-Level Software Engineer | Flutter & Full-Stack Developer</h3>
+
+<p>
+  Mobile Applications • Delivery Systems • Admin Dashboards • Web Platforms
+</p>
+
+<br>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=900&lines=Mid-Level+Flutter+Developer;Full-Stack+Product+Developer;Mobile+Apps+%7C+Delivery+Systems+%7C+Dashboards;Web+Platforms+%7C+VPS+%7C+Hosting+Deployment;Google+Play+%7C+App+Store+Publishing"
