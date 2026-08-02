@@ -7,25 +7,25 @@
 
 <h1>👋 Hi, I'm Mohammed Karnoub</h1>
 
-<h3>Mid-Level Software Engineer | Flutter & Full-Stack Developer</h3>
+<h3>Mid-Level Flutter Developer | Mobile, Web & API Integration</h3>
 
 <p>
-  Mobile Applications • Delivery Systems • Admin Dashboards • Web Platforms
+  Flutter Applications • Delivery Systems • Admin Dashboards • Web Platforms
 </p>
 
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=900&lines=Mid-Level+Flutter+Developer;Full-Stack+Product+Developer;Mobile+Apps+%7C+Delivery+Systems+%7C+Dashboards;Web+Platforms+%7C+VPS+%7C+Hosting+Deployment;Google+Play+%7C+App+Store+Publishing"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=900&lines=Mid-Level+Flutter+Developer;Flutter+Mobile+%26+Web+Applications;REST+API+Integration+%26+Backend+Collaboration;Delivery+Systems+%7C+Admin+Dashboards;VPS+%7C+Hosting+%7C+Production+Deployment;Google+Play+%7C+App+Store+Publishing"
   alt="Professional introduction"
 />
 
 <br>
 
-### Building complete digital products from concept to production
+### Building Flutter products from concept to production
 
-Mobile applications, delivery systems, admin dashboards,  
-web platforms, APIs, hosting and production deployment.
+Mobile applications, delivery systems, admin dashboards, Flutter web platforms,  
+API integration, hosting and application-store deployment.
 
 <br>
 
@@ -75,21 +75,22 @@ web platforms, APIs, hosting and production deployment.
 
 ## 👨‍💻 Professional Profile
 
-I am a **Mid-Level Software Engineer** specializing in **Flutter and full-stack product development**, with hands-on experience delivering complete production systems for e-commerce, marketplaces, delivery operations, real estate, education and corporate businesses.
+I am a **Mid-Level Flutter Developer** specializing in cross-platform mobile and web applications using **Flutter and Dart**.
 
-My work covers the complete product lifecycle — from application architecture and user interfaces to backend integration, databases, administrative dashboards, hosting, store publishing and production deployment.
+I build application interfaces and business flows, then collaborate with backend developers to connect the applications to production services through **REST APIs**. My work includes API integration, authentication flows, data handling, administrative dashboards, application publishing and production deployment.
 
 - 📱 Building production-ready mobile applications with Flutter and Dart
-- 🚚 Developing delivery applications and order-management systems
-- 🛍️ Creating e-commerce and multi-vendor marketplace platforms
-- 🖥️ Building responsive administrative dashboards
-- 🌐 Developing corporate websites and web platforms
+- 🌐 Developing responsive Flutter web platforms and admin dashboards
+- 🚚 Creating customer, delivery and order-management applications
+- 🛍️ Developing e-commerce and multi-vendor marketplace interfaces
 - 🔗 Integrating REST APIs and external services
-- ☁️ Working with Firebase and Supabase
-- 🗄️ Managing MySQL and PostgreSQL databases
-- 🧱 Applying clean architecture and scalable application structures
-- 🤖 Integrating OpenAI, Gemini and artificial intelligence APIs
-- 🖧 Managing VPS servers, hosting environments and deployments
+- 🤝 Collaborating with backend developers on API contracts and data models
+- 🔐 Handling authentication, sessions and application data flows
+- ☁️ Integrating Firebase and Supabase services
+- 🧱 Applying clean architecture and scalable Flutter project structures
+- ⚙️ Using BLoC and GetX for state management
+- 🤖 Integrating OpenAI, Gemini and other AI-powered APIs
+- 🖧 Working with VPS servers, hosting environments and deployments
 - 🌍 Configuring domains, DNS records and SSL certificates
 - 🚀 Publishing and managing applications on Google Play and Apple App Store
 - 📍 Based in Aleppo, Syria
@@ -120,7 +121,7 @@ My work covers the complete product lifecycle — from application architecture 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,nodejs,mysql,postgres,linux,git,github,postman,figma,vscode&perline=7"
+  src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,linux,git,github,postman,figma,vscode,androidstudio&perline=6"
   alt="Technology stack"
 />
 
@@ -156,7 +157,7 @@ My work covers the complete product lifecycle — from application architecture 
 />
 
 <img
-  src="https://img.shields.io/badge/Clean_Architecture-Software_Design-34495E?style=for-the-badge"
+  src="https://img.shields.io/badge/Clean_Architecture-Flutter_Projects-34495E?style=for-the-badge"
   alt="Clean Architecture"
 />
 
@@ -169,38 +170,53 @@ My work covers the complete product lifecycle — from application architecture 
 
 ---
 
-## ⚙️ Backend & Database Experience
+## 🔗 API Integration & Backend Collaboration
+
+I focus on Flutter development while working closely with backend developers to connect applications to live services.
+
+- REST API integration
+- Reading and testing API documentation with Postman
+- JSON serialization and data-model mapping
+- Authentication and session handling
+- Request headers, tokens and protected endpoints
+- Loading, empty, success and error states
+- Form validation and server-side error handling
+- File and image-upload integration
+- Pagination, search and filtering integration
+- Firebase and Supabase service integration
+- Coordinating endpoint requirements with backend developers
+- Connecting applications to staging and production APIs
 
 <div align="center">
 
 <img
-  src="https://img.shields.io/badge/Firebase-Backend_Services-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
+  src="https://img.shields.io/badge/REST_API-Integration-009688?style=for-the-badge"
+  alt="REST API Integration"
+/>
+
+<img
+  src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+  alt="Postman"
+/>
+
+<img
+  src="https://img.shields.io/badge/JSON-Data_Models-000000?style=for-the-badge&logo=json&logoColor=white"
+  alt="JSON"
+/>
+
+<img
+  src="https://img.shields.io/badge/Firebase-Service_Integration-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
   alt="Firebase"
 />
 
 <img
-  src="https://img.shields.io/badge/Supabase-Backend_Platform-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"
+  src="https://img.shields.io/badge/Supabase-Service_Integration-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"
   alt="Supabase"
 />
 
 <img
-  src="https://img.shields.io/badge/Node.js-Backend_Development-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-  alt="Node.js"
-/>
-
-<img
-  src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-  alt="MySQL"
-/>
-
-<img
-  src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
-  alt="PostgreSQL"
-/>
-
-<img
-  src="https://img.shields.io/badge/REST_API-Development_%26_Integration-009688?style=for-the-badge"
-  alt="REST API"
+  src="https://img.shields.io/badge/Backend-Team_Collaboration-0969DA?style=for-the-badge"
+  alt="Backend Collaboration"
 />
 
 </div>
@@ -209,20 +225,18 @@ My work covers the complete product lifecycle — from application architecture 
 
 ## 🖧 VPS, Hosting & Deployment
 
-I have practical experience deploying and managing production applications, websites, databases and backend services.
+I have practical experience deploying Flutter web applications and websites, managing hosting environments and connecting applications to production backend services.
 
-- VPS server management
-- Linux server environments
+- VPS server and Linux environment basics
 - Web hosting configuration
-- Website and API deployment
+- Flutter web and website deployment
+- Connecting applications to live production APIs
 - Domain and DNS configuration
-- SSL certificate installation and management
-- Production environment configuration
-- Database deployment and connection
-- Website files and server management
-- Application updates and production maintenance
-- Managing deployment and backup files
-- Connecting mobile applications with production APIs
+- SSL certificate installation and renewal
+- API base URL and production-environment configuration
+- Website file management and updates
+- Deployment-file and backup management
+- Basic production maintenance and troubleshooting
 
 <div align="center">
 
@@ -237,7 +251,7 @@ I have practical experience deploying and managing production applications, webs
 />
 
 <img
-  src="https://img.shields.io/badge/Web_Hosting-Deployment-0969DA?style=for-the-badge&logo=googlecloud&logoColor=white"
+  src="https://img.shields.io/badge/Web_Hosting-Deployment-0969DA?style=for-the-badge"
   alt="Web Hosting"
 />
 
@@ -262,17 +276,17 @@ I have practical experience deploying and managing production applications, webs
 
 ## 📲 Mobile Application Publishing
 
-Experienced in preparing, publishing and managing mobile application releases on Google Play and Apple App Store.
+Experienced in preparing, publishing and managing Flutter application releases on Google Play and Apple App Store.
 
 ### Google Play
 
 - Google Play Console management
 - Android App Bundle generation
-- Release build preparation
+- Release-build preparation
 - Application signing and version management
 - Internal, closed and production testing
-- Store listing preparation
-- Production release management
+- Store-listing preparation
+- Production-release management
 - Application updates and new versions
 
 ### Apple App Store
@@ -282,9 +296,9 @@ Experienced in preparing, publishing and managing mobile application releases on
 - Certificates and application signing
 - Build uploading and version management
 - TestFlight testing
-- Store listing preparation
-- Application review submission
-- Production release and updates
+- Store-listing preparation
+- Application-review submission
+- Production releases and updates
 
 <div align="center">
 
@@ -311,17 +325,17 @@ Experienced in preparing, publishing and managing mobile application releases on
 
 ## 🛍️ Happy Family Mall
 
-A complete e-commerce and delivery ecosystem designed to manage products, customers, orders and delivery operations.
+A complete shopping and delivery system built with Flutter and connected to backend services through APIs.
 
-### Delivered Solutions
+### Delivered Flutter Solutions
 
 - Customer shopping application
-- Delivery driver application
+- Delivery-driver application
 - Administrative dashboard
-- Product and category management
-- Customer account management
-- Order and delivery management
-- Backend and API integration
+- Product and category interfaces
+- Customer-account flows
+- Order and delivery workflows
+- REST API integration
 - Google Play and App Store deployment
 
 ### Download the Application
@@ -350,17 +364,18 @@ A complete e-commerce and delivery ecosystem designed to manage products, custom
 
 ## 👗 Kattan Fashion
 
-A complete fashion retail system for displaying products, receiving customer orders and managing delivery operations.
+A Flutter fashion-retail system connected to backend APIs for product browsing, customer orders and delivery operations.
 
-### Delivered Solutions
+### Delivered Flutter Solutions
 
 - Customer shopping application
-- Delivery driver application
+- Delivery-driver application
 - Administrative dashboard
-- Fashion product management
-- Customer account management
+- Fashion-product interfaces
+- Customer-account flows
 - Order tracking and management
-- Delivery operations management
+- Delivery-operation workflows
+- REST API integration
 
 ### Application Status
 
@@ -384,19 +399,19 @@ A complete fashion retail system for displaying products, receiving customer ord
 
 ## 🛒 Fanous Platform
 
-A complete marketplace platform that enables users and businesses to publish, browse, sell and manage products through an integrated digital ecosystem.
+A Flutter marketplace platform that enables users and businesses to publish, browse and manage products through connected mobile, delivery, dashboard and web experiences.
 
-### Delivered Solutions
+### Delivered Flutter Solutions
 
 - Customer marketplace application
 - Delivery application
 - Administrative dashboard
 - Marketplace website
-- User account management
-- Product publishing and management
-- Categories and advertisements management
-- Order and delivery management
-- Backend and API integration
+- User-account flows
+- Product-publishing interfaces
+- Categories and advertisements interfaces
+- Order and delivery workflows
+- REST API integration
 - Google Play and App Store deployment
 
 ### Live Platform
@@ -436,17 +451,17 @@ A complete marketplace platform that enables users and businesses to publish, br
 
 ## 🏙️ Zamzam Real Estate
 
-A complete digital real-estate platform developed to showcase projects, manage property information and connect customers with the company.
+A Flutter real-estate platform built to showcase projects and connect customers with company information and property services.
 
-### Delivered Solutions
+### Delivered Flutter Solutions
 
 - Mobile application
 - Administrative dashboard
 - Corporate website
-- Real-estate project management
-- Property information management
-- Customer information management
-- Backend and API integration
+- Real-estate project interfaces
+- Property-information interfaces
+- Customer-contact flows
+- REST API integration
 - Hosting and production deployment
 
 ### Live Website
@@ -482,15 +497,16 @@ A complete digital real-estate platform developed to showcase projects, manage p
 
 ## 🚗 Jordan Academic
 
-A web-based educational platform developed for automotive maintenance training and course management.
+A responsive educational web platform and administrative dashboard for automotive-maintenance training and course presentation.
 
-### Delivered Solutions
+### Delivered Flutter Solutions
 
 - Educational website
 - Administrative dashboard
-- Course and training management
-- Student management
-- Educational content management
+- Course and training interfaces
+- Student-management interfaces
+- Educational-content interfaces
+- API integration
 - Website deployment and hosting configuration
 
 🌐 **Live Website:** [jordanacademic.com](https://jordanacademic.com/)
@@ -512,15 +528,16 @@ A web-based educational platform developed for automotive maintenance training a
 
 ## 🏭 Fattah One Machine
 
-A corporate web platform developed to showcase industrial machines, products, services and company information.
+A responsive company web platform and administrative dashboard for presenting industrial machines, products and services.
 
-### Delivered Solutions
+### Delivered Flutter Solutions
 
 - Corporate website
 - Administrative dashboard
-- Product management
-- Service management
-- Website content management
+- Product-management interfaces
+- Service-management interfaces
+- Website-content interfaces
+- API integration
 - Hosting and production deployment
 
 🌐 **Live Website:** [fattahonemachine.com](https://fattahonemachine.com/)
@@ -542,16 +559,16 @@ A corporate web platform developed to showcase industrial machines, products, se
 
 ## 💼 A2Y Syria
 
-A responsive corporate website designed to present the company's services, projects and digital identity.
+A responsive corporate web experience designed to present the company's services, projects and digital identity.
 
-### Delivered Solutions
+### Delivered Flutter Solutions
 
 - Corporate website
 - Responsive web interface
 - Services presentation
 - Projects presentation
-- Company information sections
-- Digital brand presentation
+- Company-information sections
+- Digital-brand presentation
 - Website hosting and deployment
 
 🌐 **Live Website:** [a2ysyr.com](https://a2ysyr.com/)
@@ -638,15 +655,152 @@ A responsive corporate website designed to present the company's services, proje
 
 ```text
 📱 Cross-platform Flutter applications
-🚚 Delivery and order-management systems
-🛒 E-commerce and marketplace platforms
-🖥️ Administrative dashboards
-🌐 Responsive corporate websites
-🔗 REST API integrations
-⚙️ Backend services and business logic
-☁️ Firebase and Supabase solutions
-🗄️ MySQL and PostgreSQL database systems
-🤖 Artificial intelligence API integrations
+🚚 Delivery and order-management applications
+🛒 E-commerce and marketplace interfaces
+🖥️ Flutter administrative dashboards
+🌐 Responsive Flutter web platforms
+🔗 REST API integration
+🤝 Backend-team collaboration
+☁️ Firebase and Supabase integrations
+🤖 Artificial-intelligence API integrations
 🖧 VPS and hosting deployments
 🌍 Domain, DNS and SSL configuration
 📲 Google Play and App Store publishing
+```
+
+---
+
+## 🤖 Artificial Intelligence Integration
+
+I integrate AI-powered services into Flutter applications and web platforms through external APIs.
+
+<div align="center">
+
+<img
+  src="https://img.shields.io/badge/OpenAI_API-Flutter_Integration-412991?style=for-the-badge&logo=openai&logoColor=white"
+  alt="OpenAI API"
+/>
+
+<img
+  src="https://img.shields.io/badge/Gemini_API-Flutter_Integration-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"
+  alt="Gemini API"
+/>
+
+<img
+  src="https://img.shields.io/badge/AI_Features-API_Integration-0969DA?style=for-the-badge"
+  alt="AI Features"
+/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Advanced Flutter development
+- Clean architecture for Flutter projects
+- BLoC and GetX state management
+- Responsive mobile and web interfaces
+- REST API integration
+- Backend-team collaboration
+- Firebase and Supabase integration
+- Application performance optimization
+- VPS and production deployment
+- Google Play and App Store publishing
+- AI-powered application features
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=MOKarnoub&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+  alt="Mohammed Karnoub GitHub statistics"
+/>
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOKarnoub&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  alt="Most used languages"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=MOKarnoub&theme=github-dark-blue&hide_border=true"
+  alt="GitHub contribution streak"
+/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MOKarnoub&theme=github-compact&hide_border=true"
+  alt="GitHub contribution activity graph"
+/>
+
+</div>
+
+---
+
+## 🤝 Professional Opportunities
+
+I am available for:
+
+- Flutter mobile-application development
+- Flutter web-platform development
+- Delivery and e-commerce applications
+- Administrative dashboards
+- REST API integration
+- Firebase and Supabase integration
+- Application publishing on Google Play
+- Application publishing on Apple App Store
+- VPS, hosting and frontend deployment
+- Application maintenance and updates
+- Remote development opportunities
+- Freelance projects and technical collaborations
+
+<div align="center">
+
+## 📩 Contact Me
+
+<a href="mailto:taharose4@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-taharose4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="https://wa.me/963939005538">
+  <img
+    src="https://img.shields.io/badge/WhatsApp-%2B963%20939%20005%20538-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    alt="WhatsApp"
+  />
+</a>
+
+<a href="https://github.com/MOKarnoub">
+  <img
+    src="https://img.shields.io/badge/GitHub-MOKarnoub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<br><br>
+
+### ⭐ Building reliable Flutter applications connected to real production services
+
+</div>
