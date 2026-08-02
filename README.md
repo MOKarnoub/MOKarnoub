@@ -25,6 +25,20 @@ web platforms, APIs, hosting and production deployment.
 
 <br>
 
+<a href="mailto:taharose4@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="https://wa.me/963939005538">
+  <img
+    src="https://img.shields.io/badge/WhatsApp-%2B963%20939%20005%20538-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    alt="WhatsApp"
+  />
+</a>
+
 <a href="https://github.com/MOKarnoub">
   <img
     src="https://img.shields.io/badge/GitHub-MOKarnoub-181717?style=for-the-badge&logo=github&logoColor=white"
@@ -36,13 +50,6 @@ web platforms, APIs, hosting and production deployment.
   <img
     src="https://img.shields.io/badge/Featured_Project-Fanous_Platform-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"
     alt="Fanous Platform"
-  />
-</a>
-
-<a href="mailto:taharose4@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
   />
 </a>
 
@@ -66,7 +73,7 @@ web platforms, APIs, hosting and production deployment.
 
 I am a **Mid-Level Software Engineer** specializing in **Flutter and full-stack product development**, with hands-on experience delivering complete production systems for e-commerce, marketplaces, delivery operations, real estate, education and corporate businesses.
 
-My work covers the complete product lifecycle — from application architecture and user interfaces to backend integration, databases, administrative dashboards, hosting and production deployment.
+My work covers the complete product lifecycle — from application architecture and user interfaces to backend integration, databases, administrative dashboards, hosting, store publishing and production deployment.
 
 - 📱 Building production-ready mobile applications with Flutter and Dart
 - 🚚 Developing delivery applications and order-management systems
@@ -78,7 +85,7 @@ My work covers the complete product lifecycle — from application architecture 
 - 🗄️ Managing MySQL and PostgreSQL databases
 - 🧱 Applying clean architecture and scalable application structures
 - 🤖 Integrating OpenAI, Gemini and artificial intelligence APIs
-- 🖧 Managing VPS servers, hosting environments and production deployments
+- 🖧 Managing VPS servers, hosting environments and deployments
 - 🌍 Configuring domains, DNS records and SSL certificates
 - 🚀 Publishing and managing applications on Google Play and Apple App Store
 - 📍 Based in Aleppo, Syria
@@ -198,20 +205,20 @@ My work covers the complete product lifecycle — from application architecture 
 
 ## 🖧 VPS, Hosting & Deployment
 
-I have practical experience deploying and managing production applications, websites and backend services.
+I have practical experience deploying and managing production applications, websites, databases and backend services.
 
 - VPS server management
+- Linux server environments
 - Web hosting configuration
 - Website and API deployment
 - Domain and DNS configuration
 - SSL certificate installation and management
 - Production environment configuration
 - Database deployment and connection
-- Website file and server management
+- Website files and server management
 - Application updates and production maintenance
-- Monitoring deployed applications and services
-- Managing backups and deployment files
-- Connecting mobile applications with live production APIs
+- Managing deployment and backup files
+- Connecting mobile applications with production APIs
 
 <div align="center">
 
@@ -221,12 +228,17 @@ I have practical experience deploying and managing production applications, webs
 />
 
 <img
+  src="https://img.shields.io/badge/Linux-Server_Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+  alt="Linux"
+/>
+
+<img
   src="https://img.shields.io/badge/Web_Hosting-Deployment-0969DA?style=for-the-badge&logo=googlecloud&logoColor=white"
   alt="Web Hosting"
 />
 
 <img
-  src="https://img.shields.io/badge/DNS-Domain_Configuration-4285F4?style=for-the-badge&logo=cloudflare&logoColor=white"
+  src="https://img.shields.io/badge/DNS-Domain_Configuration-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"
   alt="DNS"
 />
 
@@ -246,15 +258,15 @@ I have practical experience deploying and managing production applications, webs
 
 ## 📲 Mobile Application Publishing
 
-Experienced in preparing, publishing and managing mobile application releases on both major application stores.
+Experienced in preparing, publishing and managing mobile application releases on Google Play and Apple App Store.
 
 ### Google Play
 
 - Google Play Console management
-- Android App Bundle production
+- Android App Bundle generation
 - Release build preparation
 - Application signing and version management
-- Internal and closed testing
+- Internal, closed and production testing
 - Store listing preparation
 - Production release management
 - Application updates and new versions
@@ -268,7 +280,7 @@ Experienced in preparing, publishing and managing mobile application releases on
 - TestFlight testing
 - Store listing preparation
 - Application review submission
-- Production release and application updates
+- Production release and updates
 
 <div align="center">
 
@@ -306,6 +318,27 @@ A complete e-commerce and delivery ecosystem designed to manage products, custom
 - Customer account management
 - Order and delivery management
 - Backend and API integration
+- Google Play and App Store deployment
+
+### Download the Application
+
+<div align="center">
+
+<a href="https://play.google.com/store/apps/details?id=app.mokarnoub.happy_family_mall">
+  <img
+    src="https://img.shields.io/badge/Google_Play-Download_App-414141?style=for-the-badge&logo=googleplay&logoColor=white"
+    alt="Happy Family Mall on Google Play"
+  />
+</a>
+
+<a href="https://apps.apple.com/app/%D9%85%D9%88%D9%84-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%8A%D8%AF%D8%A9/id6764082251">
+  <img
+    src="https://img.shields.io/badge/App_Store-Download_App-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"
+    alt="Happy Family Mall on App Store"
+  />
+</a>
+
+</div>
 
 **Project Type:** Private Production Project
 
@@ -324,6 +357,22 @@ A complete fashion retail system for displaying products, receiving customer ord
 - Customer account management
 - Order tracking and management
 - Delivery operations management
+
+### Application Status
+
+<div align="center">
+
+<img
+  src="https://img.shields.io/badge/Google_Play-Coming_Soon-414141?style=for-the-badge&logo=googleplay&logoColor=white"
+  alt="Kattan Fashion Google Play Coming Soon"
+/>
+
+<img
+  src="https://img.shields.io/badge/App_Store-Coming_Soon-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"
+  alt="Kattan Fashion App Store Coming Soon"
+/>
+
+</div>
 
 **Project Type:** Private Production Project
 
@@ -344,8 +393,38 @@ A complete marketplace platform that enables users and businesses to publish, br
 - Categories and advertisements management
 - Order and delivery management
 - Backend and API integration
+- Google Play and App Store deployment
 
-🌐 **Live Website:** [fanousplatform.com](https://fanousplatform.com/)
+### Live Platform
+
+🌐 **Website:** [fanousplatform.com](https://fanousplatform.com/)
+
+### Download the Application
+
+<div align="center">
+
+<a href="https://play.google.com/store/apps/details?id=app.mokarnoub.fanous">
+  <img
+    src="https://img.shields.io/badge/Google_Play-Download_App-414141?style=for-the-badge&logo=googleplay&logoColor=white"
+    alt="Fanous on Google Play"
+  />
+</a>
+
+<a href="https://apps.apple.com/us/app/fanous/id6763874956">
+  <img
+    src="https://img.shields.io/badge/App_Store-Download_App-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"
+    alt="Fanous on App Store"
+  />
+</a>
+
+<a href="https://fanousplatform.com/">
+  <img
+    src="https://img.shields.io/badge/Website-Visit_Platform-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Fanous Website"
+  />
+</a>
+
+</div>
 
 **Project Type:** Private Production Project
 
@@ -364,8 +443,34 @@ A complete digital real-estate platform developed to showcase projects, manage p
 - Property information management
 - Customer information management
 - Backend and API integration
+- Hosting and production deployment
 
-🌐 **Live Website:** [zamzamsy.com](https://zamzamsy.com/)
+### Live Website
+
+🌐 **Website:** [zamzamsy.com](https://zamzamsy.com/)
+
+### Application Status
+
+<div align="center">
+
+<img
+  src="https://img.shields.io/badge/Google_Play-Coming_Soon-414141?style=for-the-badge&logo=googleplay&logoColor=white"
+  alt="Zamzam Google Play Coming Soon"
+/>
+
+<img
+  src="https://img.shields.io/badge/App_Store-Coming_Soon-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"
+  alt="Zamzam App Store Coming Soon"
+/>
+
+<a href="https://zamzamsy.com/">
+  <img
+    src="https://img.shields.io/badge/Website-Visit_Website-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Zamzam Website"
+  />
+</a>
+
+</div>
 
 **Project Type:** Private Production Project
 
@@ -386,6 +491,17 @@ A web-based educational platform developed for automotive maintenance training a
 
 🌐 **Live Website:** [jordanacademic.com](https://jordanacademic.com/)
 
+<div align="center">
+
+<a href="https://jordanacademic.com/">
+  <img
+    src="https://img.shields.io/badge/Website-Visit_Jordan_Academic-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Jordan Academic Website"
+  />
+</a>
+
+</div>
+
 **Project Type:** Private Production Project
 
 ---
@@ -404,6 +520,17 @@ A corporate web platform developed to showcase industrial machines, products, se
 - Hosting and production deployment
 
 🌐 **Live Website:** [fattahonemachine.com](https://fattahonemachine.com/)
+
+<div align="center">
+
+<a href="https://fattahonemachine.com/">
+  <img
+    src="https://img.shields.io/badge/Website-Visit_Fattah_One_Machine-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Fattah One Machine Website"
+  />
+</a>
+
+</div>
 
 **Project Type:** Private Production Project
 
@@ -425,6 +552,17 @@ A responsive corporate website designed to present the company's services, proje
 
 🌐 **Live Website:** [a2ysyr.com](https://a2ysyr.com/)
 
+<div align="center">
+
+<a href="https://a2ysyr.com/">
+  <img
+    src="https://img.shields.io/badge/Website-Visit_A2Y_Syria-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="A2Y Syria Website"
+  />
+</a>
+
+</div>
+
 **Project Type:** Production Website
 
 ---
@@ -433,19 +571,62 @@ A responsive corporate website designed to present the company's services, proje
 
 <div align="center">
 
-| Project | Mobile App | Delivery App | Dashboard | Website |
-|:---|:---:|:---:|:---:|:---:|
-| Happy Family Mall | ✅ | ✅ | ✅ | — |
-| Kattan Fashion | ✅ | ✅ | ✅ | — |
-| Fanous Platform | ✅ | ✅ | ✅ | ✅ |
-| Zamzam Real Estate | ✅ | — | ✅ | ✅ |
-| Jordan Academic | — | — | ✅ | ✅ |
-| Fattah One Machine | — | — | ✅ | ✅ |
-| A2Y Syria | — | — | — | ✅ |
+| Project | Mobile App | Delivery App | Dashboard | Website | Store Status |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| Happy Family Mall | ✅ | ✅ | ✅ | — | Published |
+| Kattan Fashion | ✅ | ✅ | ✅ | — | Coming Soon |
+| Fanous Platform | ✅ | ✅ | ✅ | ✅ | Published |
+| Zamzam Real Estate | ✅ | — | ✅ | ✅ | Coming Soon |
+| Jordan Academic | — | — | ✅ | ✅ | Website Live |
+| Fattah One Machine | — | — | ✅ | ✅ | Website Live |
+| A2Y Syria | — | — | — | ✅ | Website Live |
 
 </div>
 
 > 🔒 Most production repositories are private because they contain client-related code, business logic, credentials and sensitive project data. Technical details and demonstrations can be shared upon request.
+
+---
+
+## 🔗 Live Products
+
+<div align="center">
+
+<a href="https://fanousplatform.com/">
+  <img
+    src="https://img.shields.io/badge/Fanous-Website-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Fanous Website"
+  />
+</a>
+
+<a href="https://zamzamsy.com/">
+  <img
+    src="https://img.shields.io/badge/Zamzam-Website-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Zamzam Website"
+  />
+</a>
+
+<a href="https://jordanacademic.com/">
+  <img
+    src="https://img.shields.io/badge/Jordan_Academic-Website-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Jordan Academic Website"
+  />
+</a>
+
+<a href="https://fattahonemachine.com/">
+  <img
+    src="https://img.shields.io/badge/Fattah_One_Machine-Website-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Fattah One Machine Website"
+  />
+</a>
+
+<a href="https://a2ysyr.com/">
+  <img
+    src="https://img.shields.io/badge/A2Y_Syria-Website-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="A2Y Syria Website"
+  />
+</a>
+
+</div>
 
 ---
 
